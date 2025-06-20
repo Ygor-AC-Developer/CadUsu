@@ -1,4 +1,4 @@
-from C4SubPasta.Funcoes import *
+from Comandos.Funcoes import *
 
 usuarios = {}
 
